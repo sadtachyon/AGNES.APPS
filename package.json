@@ -1,0 +1,7 @@
+{
+  "name": "agnes-dev",
+  "version": "0.2.0",
+  "description": "Hub pessoal de aplicações e projetos",
+  "author": "sadtachyon",
+  "main": "main.cjs"
+}
